@@ -1,0 +1,42 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+    background-color: #800080;
+}
+p {
+    margin: 0;
+    text-align: center;
+    font-size: 18px;
+    background-color: #ff0000;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+}
+main {
+    width: 100vw;
+    height: 100vh;
+    color: black;
+}
+.red {
+    background-color: #ff0000;
+    color: black;
+}
+.orange {
+    background-color: #ffa500;
+    color: black;
+}
+.yellow {
+    background-color: #ffff00;
+    color: black;
+}
+.green {
+    background-color: #129a0d;
+    color: black;
+}
+.blue {
+    background-color: #0000ff;
+}
+.purple {
+    background-color: #800080;
+}
